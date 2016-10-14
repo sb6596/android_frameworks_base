@@ -78,7 +78,9 @@ public class PropImitationHooks {
         "PIXEL_2020_EXPERIENCE",
         "PIXEL_2020_MIDYEAR_EXPERIENCE",
         "PIXEL_2021_EXPERIENCE",
-        "PIXEL_2021_MIDYEAR_EXPERIENCE"
+        "PIXEL_2021_MIDYEAR_EXPERIENCE",
+        "PIXEL_2022_EXPERIENCE",
+        "PIXEL_2022_MIDYEAR_EXPERIENCE"
     );
 
     private static volatile String sProcessName;
